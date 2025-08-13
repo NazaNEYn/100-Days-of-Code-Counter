@@ -30,7 +30,11 @@ class CounterUp:
         self.num_up += 1
 
         # Print the current day count using an f-string.
-        print(f"{self.num_up} day down")
+
+        if self.num_up == 1:
+            print(f"{self.num_up} day down")
+        else:
+            print(f"{self.num_up} days down")
 
         # Check if the current day has reached the user's max day.
         if self.num_up == user_max_day:
