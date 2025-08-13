@@ -41,5 +41,8 @@ The program will then ask you to enter the total number of days for your challen
 * `count_up.py`: A class to handle counting up.
 
 * `count_down.py`: A class to handle counting down.
+<hr>
+
+<img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/2f20d1ae-130d-4d62-8bf2-46fb5cdc3be5" />
 
 
