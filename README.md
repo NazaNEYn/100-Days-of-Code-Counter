@@ -43,6 +43,6 @@ The program will then ask you to enter the total number of days for your challen
 * `count_down.py`: A class to handle counting down.
 <hr>
 
-<img width="1025" height="584" alt="image" src="https://github.com/user-attachments/assets/2f20d1ae-130d-4d62-8bf2-46fb5cdc3be5" />
+<img width="797" height="502" alt="image" src="https://github.com/user-attachments/assets/a0f0787c-bd64-4d07-9eb7-521e8c94a81c" />
 
 
