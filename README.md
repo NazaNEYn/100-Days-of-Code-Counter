@@ -9,27 +9,9 @@ A simple Python-based command-line tool to track your progress for a coding chal
 * **Easy to Us**e: A simple, interactive terminal interface.
  <hr>
 
-## Installation
-
-1. **Clone the repo**:
-
-```
-git clone https://https://github.com/your-username/100-days-of-code-counter.git
-cd 100-days-of-code-counter
-```
-
-2. **Navigate into the project directory**:
-```
-cd 100-days-of-code-counter
-```
-<hr>
 
 ## How to Use
-To run the counter, simply execute the main Python script from your terminal.
-```
-python main.py
-```
-The program will then ask you to enter the total number of days for your challenge. After that, just press **ENTER** each time you complete a day of code to see your progress!
+The program will ask you to enter the total number of days for your challenge. After that, just press **ENTER** each time you complete a day of code to see your progress!
 
 
 
@@ -41,8 +23,10 @@ The program will then ask you to enter the total number of days for your challen
 * `count_up.py`: A class to handle counting up.
 
 * `count_down.py`: A class to handle counting down.
+
+* `progressbar_art.py`: progress bar art
 <hr>
 
-<img width="797" height="502" alt="image" src="https://github.com/user-attachments/assets/a0f0787c-bd64-4d07-9eb7-521e8c94a81c" />
+
 
 
