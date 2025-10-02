@@ -33,6 +33,6 @@ The program will ask you to enter the total number of days for your challenge. A
 * `progressbar_art.py`: progress bar art
 <hr>
 
-
+Ps. The idea of adding a progress bar was originally from [Franz](https://x.com/mfranz_on)
 
 
