@@ -1,5 +1,6 @@
-# 100 Days of Code Counter
-A simple Python-based command-line tool to track your progress for a coding challenge like the **#100DaysOfCode**.
+# X Days of Code Counter
+A simple Python-based command-line tool to track your progress for a coding challenge like the **#100DaysOfCode**.<br>
+You will be asked about how many days you want to commit for the challenge and then you can choose any numebr you want.
 
 ## Features
 * **Counts Up**: Tracks progress from day 0 to your target day.
